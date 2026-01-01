@@ -1,10 +1,10 @@
-###🧠 Convolutional Neural Networks – Hands-On Practice with Keras
+#🧠 Convolutional Neural Networks – Hands-On Practice with Keras
 
 This repository / notebook is a structured, hands-on exploration of Convolutional Neural Networks (CNNs), focusing on understanding how computer vision models actually learn, not just how to run them.
 
 The content follows a progressive learning path, where each section builds directly on the previous one.
 
-📚 Covered Topics
+##📚 Covered Topics
 
 The exercises include:
 
@@ -26,7 +26,7 @@ Designing custom CNN architectures and experimenting with depth and filters.
 Data Augmentation
 Improving model generalization by generating diverse training samples.
 
-🎯 Learning Objective
+##🎯 Learning Objective
 
 The main goal of this project is conceptual clarity.
 
@@ -40,7 +40,7 @@ Why certain design patterns are commonly used in computer vision models
 
 Accuracy matters — but understanding matters more.
 
-🛠️ Tools & Technologies
+##🛠️ Tools & Technologies
 
 Python
 
@@ -50,7 +50,7 @@ Convolutional Neural Networks (CNN)
 
 Image Data Pipelines & Augmentation
 
-🚀 Who This Is For
+##🚀 Who This Is For
 
 Learners starting their journey in Computer Vision
 
@@ -58,7 +58,7 @@ Anyone who wants an intuitive understanding of CNNs
 
 Practitioners revisiting fundamentals before building advanced models
 
-🧩 Notes
+##🧩 Notes
 
 This project is intended for learning and experimentation.
 Code is written for readability and exploration rather than heavy optimization.
