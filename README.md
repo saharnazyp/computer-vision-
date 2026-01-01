@@ -1,4 +1,4 @@
-🧠 Convolutional Neural Networks – Hands-On Practice with Keras
+###🧠 Convolutional Neural Networks – Hands-On Practice with Keras
 
 This repository / notebook is a structured, hands-on exploration of Convolutional Neural Networks (CNNs), focusing on understanding how computer vision models actually learn, not just how to run them.
 
