@@ -49,9 +49,11 @@ Accuracy matters — but understanding matters more.
 
 - Learners starting their journey in Computer Vision  
 - Anyone who wants an intuitive understanding of CNNs  
-- Practitioners revisiting fundamentals before building advanced models  
-
+- Practitioners revisiting fundamentals before building advanced models
+  
+🎯 MY GOAL:Aiming to lead the evolution of Automotive AI Systems through innovation and data-driven solutions.
 ## 🧩 Notes
 
 This project is intended for learning and experimentation.  
 Code is written for readability and exploration rather than heavy optimization.
+"Building the future of artifitial intelligence, one line of code at a time."
